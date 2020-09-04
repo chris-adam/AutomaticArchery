@@ -14,3 +14,5 @@ Cependant, il n'a pas beaucoup été testé et d'autres bugs pourraient être d�
 - Et bien d'autres
 
 <img src="https://zupimages.net/up/20/36/4d07.png" width="100%">
+
+Conçu en collaboration avec Frédéric Adam, frère et arbitre de tir à l'arc à la LFBTA.
